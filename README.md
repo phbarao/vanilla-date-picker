@@ -4,41 +4,17 @@ A custom date picker using OOP and web components with accessibility built-in.
 
 ## Demo
 
-Insert gif or link to demo
+
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+https://user-images.githubusercontent.com/62365336/139158881-7a1a20ff-acc5-4be3-94c0-55cee16f7db8.mov
 
 ## Tech Stack
 
 HTML, CSS, Javascript.
 
-## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
 
 ## Acknowledgements
 
