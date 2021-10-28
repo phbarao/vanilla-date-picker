@@ -4,7 +4,7 @@ A custom date picker using OOP and web components with accessibility built-in.
 
 ## Demo
 
-
+https://phbarao.github.io/vanilla-date-picker/
 
 ## Screenshots
 
@@ -13,8 +13,6 @@ https://user-images.githubusercontent.com/62365336/139158881-7a1a20ff-acc5-4be3-
 ## Tech Stack
 
 HTML, CSS, Javascript.
-
-
 
 ## Acknowledgements
 
